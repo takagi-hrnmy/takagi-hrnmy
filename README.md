@@ -5,7 +5,7 @@
 [![My study](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 ## Hobbies
-[![My hobbies](https://skillicons.dev/icons?i=git,github,aws,html,linux,windows,unity,vscode,obsidian,vercel)](https://skillicons.dev)
+[![My hobbies](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
