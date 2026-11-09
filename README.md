@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##study
+## study
 
 [![My study](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
